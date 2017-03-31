@@ -3,10 +3,10 @@ package com.gebhardt;
 /**
  * Created by robert on 3/30/17.
  */
-public class Professor {
+public class Curso {
     private String nome;
 
-    public Professor(String nome) {
+    public Curso(String nome) {
         this.nome = nome;
     }
 }
